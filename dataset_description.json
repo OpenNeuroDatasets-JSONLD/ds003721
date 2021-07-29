@@ -1,9 +1,9 @@
 {
-	"Name": "Visser, Henson, Holmes. A naturalistic paradigm to investigate post-encoding neural activation patterns in relation to subsequent voluntary and intrusive recall of distressing events",
-	"BIDSVersion": "1.4.0",
-	"DatasetType": "raw",
-    	"License": "CC0",
-    	"Authors": [
+    "Name": "Visser, Henson, Holmes. A naturalistic paradigm to investigate post-encoding neural activation patterns in relation to subsequent voluntary and intrusive recall of distressing events",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
         "Renee M Visser",
         "Richard N Henson",
         "Emily A Holmes"
@@ -20,5 +20,5 @@
         "https://osf.io/ucen5/",
         "Visser, R M, Henson, R N, & Holmes, E A, submitted. A naturalistic paradigm to investigate post-encoding neural activation patterns in relation to subsequent voluntary and intrusive recall of distressing events."
     ],
-    "DatasetDOI": "xxx/xxx"
+    "DatasetDOI": "10.18112/openneuro.ds003721.v1.0.0"
 }
