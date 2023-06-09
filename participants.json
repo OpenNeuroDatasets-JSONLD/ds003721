@@ -1,13 +1,35 @@
 {
     "age": {
         "Description": "age of the participant",
-        "Units": "years"
+        "Units": "years",
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:Age",
+                "Label": ""
+            }
+        }
     },
     "sex": {
         "Description": "sex of the participant as reported by the participant",
         "Levels": {
             "Male": "male",
             "Female": "female"
+        },
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:Sex",
+                "Label": ""
+            },
+            "Levels": {
+                "Female": {
+                    "TermURL": "snomed:248152002",
+                    "Label": ""
+                },
+                "Male": {
+                    "TermURL": "snomed:248153007",
+                    "Label": ""
+                }
+            }
         }
     },
     "handedness": {
